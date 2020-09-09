@@ -1,3 +1,4 @@
 # my-first-repo
-## picture of me 
+## picture :)
+
 ![](img/hooft3.jpg)
